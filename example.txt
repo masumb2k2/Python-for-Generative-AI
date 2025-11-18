@@ -1,0 +1,2 @@
+Writing and reading in same file.
+hello
