@@ -1,2 +1,2 @@
-Writing and reading in same file.
-hello
+i write this filethis is a new line
+this is a new linefirst linesecond linethird line
